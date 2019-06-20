@@ -45,7 +45,7 @@ export default {
     cardText2: 16
   },
   headerStyle: {
-    height: 60,
+    height: 80,
     backgroundColor: "#fff",
     borderBottomWidth: 0,
     elevation: 0
