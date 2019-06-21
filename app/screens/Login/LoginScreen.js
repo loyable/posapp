@@ -57,7 +57,7 @@ class LoginScreen extends Component {
             <Text style={form.inputLabel}>Password</Text>
             <TextInput
               style={form.input}
-              onChangeText={email => this.setState({ email })}
+              onChangeText={password => this.setState({ password })}
             />
           </View>
           <TouchableOpacity

@@ -1,0 +1,288 @@
+{
+  "user": {
+    "id": "4048ed6b-bcad-4e73-9852-1ba4c585acdb",
+    "phone": "+393391848457",
+    "merchants": {
+      "_id": "5cafb4262455cf1b831d8831",
+      "cards": [
+        {
+          "id": "73484a86-e233-438f-a007-d2fd0a32a34a",
+          "marked": 9,
+          "hidden": false,
+          "created": "2019-04-11T07:48:27.539Z",
+          "_id": "5cafb4262455cf1b831d8834",
+          "history": [
+            {
+              "value": "+1",
+              "time": "2019-04-11T07:48:27.539Z",
+              "_id": "5cafb4262455cf1b831d8835",
+              "type": "add"
+            }
+          ],
+          "designID": "62db33d8-bc6e-4864-b50f-281aab7c9893",
+          "card": {
+            "_id": "5c9e1ec25918590a0d984ebf",
+            "settings": {
+              "marks": {
+                "mark": {
+                  "image": {
+                    "width": 38,
+                    "height": 11,
+                    "src": "http://www.minisushi.it/wp-content/uploads/2016/06/minilogo.png"
+                  },
+                  "style": {
+                    "shape": {
+                      "type": "round",
+                      "value": 12
+                    },
+                    "backgroundColor": "#000",
+                    "borderWidth": 0,
+                    "borderColor": "#fff"
+                  }
+                },
+                "style": {
+                  "shape": {
+                    "type": "round",
+                    "value": 12
+                  },
+                  "backgroundColor": "#fff",
+                  "padding": 2,
+                  "borderWidth": 0,
+                  "borderColor": "#fff",
+                  "width": 50,
+                  "height": 50
+                },
+                "rows": 2,
+                "total": 10,
+                "rowSpacing": 15
+              },
+              "style": {
+                "backgroundColor": "#333",
+                "borderWidth": 0,
+                "borderColor": "#fff",
+                "height": 210,
+                "borderRadius": 10
+              },
+              "description": {
+                "value": "Lorem ipsum dolor sit amet"
+              },
+              "name": "Tessera Pranzo",
+              "design": "horizontal"
+            },
+            "header": {
+              "logo": {
+                "verticalPosition": "top",
+                "width": 112,
+                "height": 35,
+                "position": "left",
+                "src": "http://www.minisushi.it/wp-content/uploads/2016/06/minilogo.png",
+                "marginBottom": 0,
+                "marginLeft": 0
+              },
+              "text1": {
+                "color": "#fff",
+                "fontSize": 20,
+                "textAlign": "right",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+                "value": "Tessera Pranzo",
+                "lineHeight": 20,
+                "letterSpacing": 0
+              },
+              "text2": {
+                "color": "#fff",
+                "fontSize": 16,
+                "textAlign": "right",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+                "value": "Ogni 10 Pranzi 1 Omaggio!",
+                "lineHeight": 16,
+                "letterSpacing": 0
+              }
+            },
+            "footer": {
+              "color": "#fff",
+              "fontSize": 14,
+              "textAlign": "right",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+              "value": "N.B. Non valido nei giorni festivi",
+              "lineHeight": 14,
+              "letterSpacing": 0
+            },
+            "id": "62db33d8-bc6e-4864-b50f-281aab7c9893",
+            "__v": 0
+          }
+        },
+        {
+          "id": "cedda040-6bf8-468c-82c8-6e8e959bf031",
+          "marked": 5,
+          "hidden": false,
+          "created": "2019-04-11T07:48:27.539Z",
+          "_id": "5cafb4262455cf1b831d8832",
+          "history": [
+            {
+              "value": "+1",
+              "time": "2019-04-11T07:48:27.539Z",
+              "_id": "5cafb4262455cf1b831d8833",
+              "type": "add"
+            }
+          ],
+          "designID": "62db33d8-bc6e-4864-b50f-281aab7c9893",
+          "card": {
+            "_id": "5c9e1ec25918590a0d984ebf",
+            "settings": {
+              "marks": {
+                "mark": {
+                  "image": {
+                    "width": 38,
+                    "height": 11,
+                    "src": "http://www.minisushi.it/wp-content/uploads/2016/06/minilogo.png"
+                  },
+                  "style": {
+                    "shape": {
+                      "type": "round",
+                      "value": 12
+                    },
+                    "backgroundColor": "#000",
+                    "borderWidth": 0,
+                    "borderColor": "#fff"
+                  }
+                },
+                "style": {
+                  "shape": {
+                    "type": "round",
+                    "value": 12
+                  },
+                  "backgroundColor": "#fff",
+                  "padding": 2,
+                  "borderWidth": 0,
+                  "borderColor": "#fff",
+                  "width": 50,
+                  "height": 50
+                },
+                "rows": 2,
+                "total": 10,
+                "rowSpacing": 15
+              },
+              "style": {
+                "backgroundColor": "#333",
+                "borderWidth": 0,
+                "borderColor": "#fff",
+                "height": 210,
+                "borderRadius": 10
+              },
+              "description": {
+                "value": "Lorem ipsum dolor sit amet"
+              },
+              "name": "Tessera Pranzo",
+              "design": "horizontal"
+            },
+            "header": {
+              "logo": {
+                "verticalPosition": "top",
+                "width": 112,
+                "height": 35,
+                "position": "left",
+                "src": "http://www.minisushi.it/wp-content/uploads/2016/06/minilogo.png",
+                "marginBottom": 0,
+                "marginLeft": 0
+              },
+              "text1": {
+                "color": "#fff",
+                "fontSize": 20,
+                "textAlign": "right",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+                "value": "Tessera Pranzo",
+                "lineHeight": 20,
+                "letterSpacing": 0
+              },
+              "text2": {
+                "color": "#fff",
+                "fontSize": 16,
+                "textAlign": "right",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+                "value": "Ogni 10 Pranzi 1 Omaggio!",
+                "lineHeight": 16,
+                "letterSpacing": 0
+              }
+            },
+            "footer": {
+              "color": "#fff",
+              "fontSize": 14,
+              "textAlign": "right",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+              "value": "N.B. Non valido nei giorni festivi",
+              "lineHeight": 14,
+              "letterSpacing": 0
+            },
+            "id": "62db33d8-bc6e-4864-b50f-281aab7c9893",
+            "__v": 0
+          }
+        }
+      ],
+      "history": [
+        {
+          "value": "+1",
+          "time": "2019-04-11T07:48:27.539Z",
+          "_id": "5cafb4262455cf1b831d8836",
+          "type": "completed"
+        }
+      ],
+      "merchantID": "e61665bf-9d4b-478f-b82c-5db61efd84c1",
+      "merchant": {
+        "_id": "5c9e1d645918590a0d984ebc",
+        "address": {
+          "location": {
+            "type": "Point",
+            "coordinates": [45.4563687, 9.2090525]
+          },
+          "value": "Via Emilio Morosini, 5, 20135 Milano MI",
+          "geohash": "u0nd9e1fd3r1"
+        },
+        "logo": {
+          "backgroundColor": "#333",
+          "src": "http://www.minisushi.it/wp-content/uploads/2016/06/minilogo.png",
+          "width": 140,
+          "height": 45
+        },
+        "style": {
+          "address": {
+            "fontSize": 16,
+            "textAlign": "left",
+            "color": "#8e8e8e",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+            "lineHeight": 16,
+            "letterSpacing": 0
+          },
+          "title": {
+            "fontSize": 22,
+            "textAlign": "left",
+            "color": "#3c3c3c",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+            "lineHeight": 22,
+            "letterSpacing": 0
+          }
+        },
+        "id": "e61665bf-9d4b-478f-b82c-5db61efd84c1",
+        "name": "MiNi Sushi",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est, blanditiis. Nesciunt, aperiam suscipit? Corrupti quam minima sequi voluptate, vitae neque?",
+        "cards": [
+          {
+            "_id": "5c9e1d645918590a0d984ebd",
+            "id": "62db33d8-bc6e-4864-b50f-281aab7c9893"
+          }
+        ],
+        "details": {
+          "phone": "+39025455802",
+          "website": "http://www.minisushi.it"
+        }
+      }
+    }
+  }
+}

@@ -17,13 +17,30 @@ export default class Utils {
       return ("0" + num).slice(-2);
     }
 
-    const day = addLeadingZero(date.getDay());
+    const day = addLeadingZero(date.getDate());
     const month = addLeadingZero(date.getMonth() + 1);
-    const year = addLeadingZero(date.getFullYear());
+    const year = date.getFullYear();
     const hours = addLeadingZero(date.getHours());
     const minutes = addLeadingZero(date.getMinutes());
 
     const dateString = `${day}/${month}/${year} ${hours}:${minutes}`;
+
+    return dateString;
+  }
+
+  //Parse date from time dd/mm/yyyy
+  static parseDateDays(time) {
+    const date = new Date(time);
+
+    function addLeadingZero(num) {
+      return ("0" + num).slice(-2);
+    }
+
+    const day = addLeadingZero(date.getDate());
+    const month = addLeadingZero(date.getMonth() + 1);
+    const year = date.getFullYear();
+
+    const dateString = `${day}/${month}/${year}`;
 
     return dateString;
   }
